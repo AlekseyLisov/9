@@ -1,0 +1,118 @@
+.title {
+  text-align:center;
+  font-size:40px
+}
+
+.form_input {
+  display:grid;
+  width:400px;
+  height:300px;
+  margin: 0 auto;
+}
+
+.form_input p {
+  text-align:center;
+  font-size:20px;
+  margin-bottom:-10px;
+}
+  
+.title_form_input {
+  text-align:center;
+  font-size:25px;
+}
+
+.j-result {
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+} 
+   
+.input_text1 {
+  align-items: center;
+  justify-content: center;
+  width:300px;
+  height:30px;
+  margin: 0 auto;
+}
+
+.input_text2 {
+  align-items: center;
+  justify-content: center;
+  width:300px;
+  height:30px;
+  margin: 0 auto;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width:400px;
+  height:50px;
+  margin: 0 auto;
+}
+
+.btn {
+  width:300px;
+  height:40px;
+  margin: 0 auto;
+  background-color: blue;
+  color: white;
+  font-size: 16px;
+  border-radius: 5px;
+  border: blue;
+}
+
+.btn:hover {
+  background-color: grey;
+  border: grey;
+}
+
+.active_error {
+  width:200px;
+  height:100px;
+  border-radius:8px;
+  background-color: #d6000071;
+  margin: 0 auto;
+}
+
+.card {
+  width: auto;
+  margin:  0 auto;
+}
+
+.card-image {
+  display: flex;
+  width: 400px;
+  height: 250px;
+  margin: 0 auto;
+}
+
+.card p {
+  margin: 0 auto;
+  text-align:center;
+  font-size:20px
+}
+
+.result {
+  display: flex;
+  flex-wrap: wrap;
+  width: 350px;
+  margin-top: 10px;
+}
+
+.error_number {
+  margin: 0 auto;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  width: 700px;
+  font-size: 15px; 
+}
+
+.error_number p {
+  text-align: center;
+  color: rgb(241, 11, 11);
+  font-size: 25px;
+  border-radius: 5px;
+}
