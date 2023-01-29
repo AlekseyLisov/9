@@ -1,0 +1,101 @@
+.title {
+  text-align:center;
+  font-size:30px
+}
+
+.form_input {
+  display:grid;
+  width:400px;
+  height:275px;
+  margin: 0 auto;
+}
+
+.form_input p {
+  text-align:center;
+  font-size:15px;
+  margin-bottom:-10px;
+}
+  
+.j-result {
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.input_text {
+  align-items: center;
+  justify-content: center;
+  width:300px;
+  height:30px;
+  margin: 0 auto;
+}
+
+.btn {
+  width:300px;
+  height:40px;
+  margin: 0 auto;
+  background-color: rgb(75, 75, 212);
+  color: white;
+  font-size: 16px;
+  border-radius: 5px;
+  border: rgb(75, 75, 212);
+}
+
+.btn:hover {
+  background-color: grey;
+  border: grey;
+}
+   
+.input_area {
+  align-items: center;
+  justify-content: center;
+  width:300px;
+  height:30px;
+  margin: 5px auto;
+}
+  
+.active_error {
+  width:200px;
+  height:100px;
+  border-radius:8px;
+  background-color: #d6000071;
+  margin: 0 auto;
+}
+
+.card {
+  width: 200px;
+  margin: 20px;
+}
+ 
+.card-image {
+  display: block;  
+}
+
+.card p {
+  margin: 0 auto;
+  text-align:center;
+  font-size:30px
+}
+
+.result {
+  display: flex;
+  flex-wrap: wrap;
+  width: 500px;
+}
+
+.error_number {
+  margin: 0 auto;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  height: px;
+  font-size: 20px; 
+}
+
+.error_number p {
+  text-align: center;
+  color: rgb(241, 11, 11);
+  font-size: 25px;
+  border-radius: 5px;
+}
